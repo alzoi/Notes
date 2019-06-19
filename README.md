@@ -13,4 +13,4 @@ https://www.kickstarter.com/
 # Графика
 Курсы по OpenGL  
 https://habr.com/ru/post/249139/  
-
+https://github.com/ssloy/tinyrenderer/wiki  
