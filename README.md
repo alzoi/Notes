@@ -8,3 +8,7 @@ https://github.com/TrillCyborg/fullstack
 
 # Краудфандинг
 https://www.kickstarter.com/  
+
+
+# Графика
+Курс OpenGL https://habr.com/ru/post/249139/  
