@@ -11,6 +11,6 @@ https://www.kickstarter.com/
 
 
 # Графика
-Курс OpenGL
+Курсы по OpenGL  
 https://habr.com/ru/post/249139/  
 
