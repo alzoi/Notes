@@ -14,3 +14,6 @@ https://www.kickstarter.com/
 Курсы по OpenGL  
 https://habr.com/ru/post/249139/  
 https://github.com/ssloy/tinyrenderer/wiki  
+
+# Шифрование RSA
+http://web.mit.edu/15.566/spring98/syllabus/rsa.txt  
