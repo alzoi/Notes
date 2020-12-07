@@ -17,3 +17,4 @@ https://github.com/ssloy/tinyrenderer/wiki
 
 # Шифрование RSA
 http://web.mit.edu/15.566/spring98/syllabus/rsa.txt  
+https://www.youtube.com/watch?v=xqPgE-hPIfE  
