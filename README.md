@@ -1,5 +1,9 @@
 # Notes
 
+# UI-библиотеки
+https://www.gtk.org/ - идеально для С++  
+https://www.wxwidgets.org/  
+
 # Курсы
 https://cs.uwaterloo.ca/current/courses/course_descriptions/  
 
