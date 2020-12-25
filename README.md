@@ -1,7 +1,7 @@
 # Notes
 
 # UI-библиотеки
-https://www.gtk.org/ - идеально для С++  
+https://www.gtk.org/ - идеально для кроссплатформенной разработки на С++  
 https://www.wxwidgets.org/  
 
 # Курсы
